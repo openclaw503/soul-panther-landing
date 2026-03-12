@@ -5,7 +5,7 @@ export default function SpotifyPlayer() {
     <div className="w-full max-w-3xl mx-auto">
       <div className="relative rounded-lg overflow-hidden border border-sacred-gold/20 card-glow">
         <iframe
-          src="https://open.spotify.com/embed/artist/0YourArtistID" // Replace with actual Spotify artist ID
+          src="https://open.spotify.com/embed/artist/0VXB0OFzi2c8iNB6fuyZxg"
           width="100%"
           height="352"
           frameBorder="0"
@@ -16,7 +16,7 @@ export default function SpotifyPlayer() {
       </div>
       <div className="mt-6 text-center">
         <a
-          href="https://open.spotify.com/artist/soulpanther"
+          href="https://open.spotify.com/artist/0VXB0OFzi2c8iNB6fuyZxg"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 text-sacred-gold hover:text-amber-glow transition-colors"

@@ -190,7 +190,7 @@ export default function Book() {
             <h3 className="text-xl font-display text-sacred-gold mb-4">CONNECT</h3>
             <div className="flex justify-center md:justify-end gap-6">
               <a
-                href="https://instagram.com/soulpanthermusic"
+                href="https://instagram.com/soul_panther"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white/70 hover:text-sacred-gold transition-colors"
@@ -198,7 +198,7 @@ export default function Book() {
                 Instagram
               </a>
               <a
-                href="https://open.spotify.com/artist/soulpanther"
+                href="https://open.spotify.com/artist/0VXB0OFzi2c8iNB6fuyZxg"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white/70 hover:text-sacred-gold transition-colors"

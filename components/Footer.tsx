@@ -18,7 +18,7 @@ export default function Footer() {
             <h4 className="text-sm font-semibold tracking-wider text-white mb-4">CONNECT</h4>
             <div className="flex flex-col space-y-2">
               <a
-                href="https://open.spotify.com/artist/soulpanther"
+                href="https://open.spotify.com/artist/0VXB0OFzi2c8iNB6fuyZxg"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-white/60 hover:text-sacred-gold transition-colors"
@@ -26,7 +26,7 @@ export default function Footer() {
                 Spotify
               </a>
               <a
-                href="https://instagram.com/soulpanthermusic"
+                href="https://instagram.com/soul_panther"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-white/60 hover:text-sacred-gold transition-colors"
