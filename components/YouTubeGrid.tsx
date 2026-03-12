@@ -10,13 +10,13 @@ interface Video {
 const videos: Video[] = [
   {
     id: '4XStke0_7Ng',
-    title: 'This Is Every Man's Dream… Yacht Sunset DJ Party',
+    title: 'This Is Every Man\'s Dream... Yacht Sunset DJ Party',
     views: '566K+ views',
     type: '40-min Deep & Afro House Mix',
   },
   {
     id: 'NgCmlLHb5qY',
-    title: 'DJing with My 2 Wives in the Kitchen...',
+    title: 'DJing with My 2 Wives in the Kitchen',
     views: '47K views',
     type: 'Deep, Afro & Melodic House Mix',
   },
