@@ -9,28 +9,28 @@ interface Video {
 
 const videos: Video[] = [
   {
+    id: '4XStke0_7Ng',
+    title: 'This Is Every Man's Dream… Yacht Sunset DJ Party',
+    views: '566K+ views',
+    type: '40-min Deep & Afro House Mix',
+  },
+  {
     id: 'NgCmlLHb5qY',
     title: 'DJing with My 2 Wives in the Kitchen...',
-    views: '566K views',
-    type: '40-min Deep & Afro House Mix',
+    views: '47K views',
+    type: 'Deep, Afro & Melodic House Mix',
+  },
+  {
+    id: 'tXFUFJB4XpM',
+    title: 'DJing at Sunset in Cannes, South of France',
+    views: '',
+    type: '20-min Deep & Afro House Mix',
   },
   {
     id: 'M7KMOTjZ_GI',
     title: 'Queen of Your Palace (LIVE in Bali) ft. Hartwell',
     views: '',
     type: 'Live Performance',
-  },
-  {
-    id: 'mS9j2yLqBHk',
-    title: 'LISTEN (Afro Edit) - Official Video',
-    views: '34K views',
-    type: 'Music Video',
-  },
-  {
-    id: '5CB9agnrfwY',
-    title: 'Push & Pull (Extended Mix)',
-    views: '1.4K views',
-    type: 'Extended Mix',
   },
 ];
 
